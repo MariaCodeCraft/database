@@ -84,7 +84,7 @@ main {
 
 .specialist-info h2 {
     font-size: 1.5em;
-    color: rgb(13, 13, 125);
+    color: rgb(5, 104, 5);
     margin: 10px 0;
 }
 
@@ -96,7 +96,7 @@ main {
 
 .specialist-info .role {
     font-weight: bold;
-    color: rgb(82, 82, 200);
+    color: rgb(55, 159, 55);
 }
 
 .specialist-info .location,
@@ -114,19 +114,6 @@ main {
     font-style: italic;
 }
 
-footer {
-    background: rgb(215, 215, 249);
-    color: black;
-    text-align: center;
-    padding: 20px;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
-
-footer p {
-    margin: 0;
-}
 
 .appointment-button {
     display: inline-block;
@@ -148,7 +135,7 @@ footer p {
 
 .appointment-button {
     display: inline-block;
-    background-color: rgb(60, 60, 176);
+    background-color: rgb(58, 126, 58);
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -161,5 +148,5 @@ footer p {
 }
 
 .appointment-button:hover {
-    background-color: #0056b3;
+    background-color: rgb(9, 99, 9);
 }
